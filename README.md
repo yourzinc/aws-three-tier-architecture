@@ -26,22 +26,22 @@ Follow these steps to set up and use the Terraform configuration:
 ```
 Enter your AWS Access Key, Secret Access Key, and default region.
 
-3. Initialize Terraform: Apply the Terraform configuration to create the resources:
+3. **Initialize Terraform**: Apply the Terraform configuration to create the resources:
 ```shell
 terraform init
 ```
 
-4. Apply Terraform Configuration:  
+4. **Apply Terraform Configuration**:  
 ```shell
 terraform apply
 ```
 Review the plan and type yes to proceed.
 
-5. Delete All Resources: To remove all resources managed by this Terraform configuration:
+5. **Delete All Resources**: To remove all resources managed by this Terraform configuration:
 ```shell
 terraform destroy
 ```
-⚠️ Warning: This will permanently delete all resources created by Terraform.
+⚠️ **Warning**: This will permanently delete all resources created by Terraform.
 
 
 ## License
