@@ -3,6 +3,7 @@ Designing a three tier architecture in AWS using Terraform
 
 
 ## Architecture
+<img width="640" alt="architecture" src="https://github.com/yourzinc/aws-three-tier-architecture/assets/77188666/eeb040dc-9d03-4f33-89e7-7407edf1edec">
 
 
 ## Prerequisites
